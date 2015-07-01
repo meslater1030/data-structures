@@ -30,5 +30,4 @@ A First In, First Out(FIFO) structure.  Contains a LinkedList that keeps track o
 ## Resources/Collaboration Used:
 - 
 
-.. image:: https://api.travis-ci.org/meslater/data-structures.png
-    :alt: Travis CI Tests
+[![Travis](https://api.travis-ci.org/meslater/data-structures.png)](https://api.travis-ci.org/meslater/data-structures.png)
