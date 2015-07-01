@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-
 from __future__ import unicode_literals
 
+import os
 
 class Node(object):
     def __init__(self, val, next=None, prev=None):
